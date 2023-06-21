@@ -1,3 +1,6 @@
+# Mortgage-calculator-appI
+Thus is a mortgage calculator react web app which calculates the mortgage amount to be paid for the home loan based on the inputs given by the user through easy and attractive UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
